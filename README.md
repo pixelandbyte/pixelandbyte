@@ -4,6 +4,7 @@
 
 The website for [pixelandbyte.com](https://pixelandbyte.com): the home page for all Pixel and Byte projects, including a portal for current clients.
 
+<!--
 ## What's here
 
 ```
@@ -56,7 +57,7 @@ Every push to `main` redeploys the site.
 - Receive form posts with a Worker on `pixelandbyte.com/api/...` and forward them to Make (removes the cross-site issue).
 - Add **Cloudflare Turnstile** spam protection to the public form.
 
-<!--
+
 **pixelandbyte/pixelandbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
